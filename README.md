@@ -18,10 +18,8 @@ It provides a centralized platform for managers and team leaders to track key pe
 
 
 ## Screenshots
-![Screenshot 2024-02-10 141756](Screenshots/Screenshot%202024-02-10%20141756.png)
-
-
-![Screenshot 2024-02-10 143343](Screenshots/Screenshot%202024-02-10%20143343.png)
+![Screenshot 2024-02-23 201308](Screenshots/Screenshot%202024-02-23%20201308.png)
+![Screenshot 2024-02-23 210159](Screenshots/Screenshot%202024-02-230%20210159.png)
 
 
 ## Installation
