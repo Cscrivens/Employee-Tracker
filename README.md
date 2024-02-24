@@ -1,4 +1,4 @@
-# Employee Tracker
+# Employee Performance Tracker
 
 ## Table of Contents
 
