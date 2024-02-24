@@ -15,6 +15,7 @@
 The Employee Performance Tracker is a tool designed to streamline the process of monitoring and evaluating employee performance within an organization. 
 It provides a centralized platform for managers and team leaders to track key performance indicators.
 
+Video walk through https://somup.com/cZnZbgpz3c
 
 
 ## Screenshots
